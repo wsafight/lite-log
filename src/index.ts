@@ -1,0 +1,1 @@
+export const index = () => void 0
